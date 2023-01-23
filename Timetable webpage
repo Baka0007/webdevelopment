@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Time Table</title>
+</head>
+<body>
+    <table border="5" cellpadding="5px" margin="5px">
+        <thead>
+            <tr>
+                <th colspan="10">TIMETABLE</th>
+            </tr>
+            <tr>
+                <th>I<br>09-09:30 AM</th>
+                <th>II<br>09:30-10:00 AM</th>
+                <th>III<br>10:00-10:30 AM</th>
+                <th>IV<br>10:30-11:00 AM</th>
+                <th>LUNCH <br>11:00-11:30 AM</th>
+                <th>V<br>11:30-12:00 noon</th>
+                <th>VI<br>12:00-12:30 PM</th>
+                <th>VII<br>12:30-1:00 PM</th>
+                <th>VIII<br> 1:00-1:30PM</th>
+                <th>IX<br>1:30-2:00 PM</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>MONDAY</td>
+                <td>SUB1</td>
+                <td>SUB2</td>
+                <td>SUB3</td>
+                <td>SUB4</td>
+                <td rowspan="6">LUNCH</td>
+                <td>SUB5</td>
+                <td>SUB6</td>
+                <td>SUB7</td>
+                <td>SUB8</td>
+            </tr>
+            <tr>
+                <td>TUESDAY</td>
+                <td>SUB1</td>
+                <td>SUB2</td>
+                <td>SUB3</td>
+                <td>SUB4</td>
+                
+                <td>SUB5</td>
+                <td>SUB6</td>
+                <td>SUB7</td>
+                <td>SUB8</td>
+            </tr>
+            <tr>
+                <td>WEDNESDAY</td>
+                <td>SUB1</td>
+                <td>SUB2</td>
+                <td>SUB3</td>
+                <td>SUB4</td>
+                
+                <td>SUB5</td>
+                <td>SUB6</td>
+                <td>SUB7</td>
+                <td>SUB8</td>
+            </tr>
+            <tr>
+                <td>THURSDAY</td>
+                <td>SUB1</td>
+                <td>SUB2</td>
+                <td>SUB3</td>
+                <td>SUB4</td>
+                
+                <td>SUB5</td>
+                <td>SUB6</td>
+                <td>SUB7</td>
+                <td>SUB8</td>
+            </tr>
+            <tr>
+                <td>FRIDAY</td>
+                <td>SUB1</td>
+                <td>SUB2</td>
+                <td>SUB3</td>
+                <td>SUB4</td>
+                
+                <td>SUB5</td>
+                <td>SUB6</td>
+                <td>SUB7</td>
+                <td>SUB8</td>
+            </tr>
+            <tr>
+                <td>SATURDAY</td>
+                <td>SUB1</td>
+                <td>SUB2</td>
+                <td>SUB3</td>
+                <td>SUB4</td>
+                
+                <td>SUB5</td>
+                <td colspan="3">SUB6</td>
+                
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
